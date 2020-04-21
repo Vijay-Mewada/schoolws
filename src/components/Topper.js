@@ -17,7 +17,7 @@ const Topper = () => {
   </div>
   <div className=" my-8 cta-text1">
   <span class="flex justify-center mx-auto"><hr class="flex ml-auto w-1/6 mt-12 text-black"/>
-    <img src='/image/head.png' alt='icon' height='80px' width='80px' className='flex justify-center ' />
+    <img src={require('../image/head.png')} alt='icon' height='80px' width='80px' className='flex justify-center ' />
     <hr class="w-1/6 flex mr-auto mt-12  text-black"/> </span>
           <h2 className='flex flex-wrap justify-center mx-auto font-serif text-center text-white uppercase text-2xl' >Our Topper</h2>
          </div>
@@ -37,10 +37,10 @@ const Topper = () => {
                       <MDBView>
                         <img
                           className="d-block w-100"
-                          src="/image/frame.png"
+                          src={require("../image/frame.png")}
                           alt="First slide"
                           style={{
-                            backgroundImage:'url(/image/topper1.jpg)',
+                            backgroundImage:`url(${require("../image/topper1.jpg")})`,
                             backgroundRepeat:'no-repeat'
                           }}
 
@@ -51,10 +51,10 @@ const Topper = () => {
                       <MDBView>
                         <img
                           className="d-block w-100"
-                          src="/image/frame.png"
+                          src={require("../image/frame.png")}
                           alt="First slide"
                           style={{
-                            backgroundImage:'url(/image/topper1.jpg)',
+                            backgroundImage:`url(${require("../image/topper1.jpg")})`,
                             backgroundRepeat:'no-repeat'
                           }}
 
@@ -65,10 +65,10 @@ const Topper = () => {
                       <MDBView>
                         <img
                           className="d-block w-100"
-                          src="/image/frame.png"
+                          src={require("../image/frame.png")}
                           alt="First slide"
                           style={{
-                            backgroundImage:'url(/image/topper1.jpg)',
+                            backgroundImage:`url(${require("../image/topper1.jpg")})`,
                             backgroundRepeat:'no-repeat'
                           }}
 
@@ -97,10 +97,10 @@ const Topper = () => {
                       <MDBView>
                         <img
                           className="d-block w-100"
-                          src="/image/frame.png"
+                          src={require("../image/frame.png")}
                           alt="First slide"
                           style={{
-                            backgroundImage:'url(/image/topper1.jpg)',
+                            backgroundImage:`url(${require("../image/topper1.jpg")})`,
                             backgroundRepeat:'no-repeat'
                           }}
 
@@ -111,10 +111,10 @@ const Topper = () => {
                       <MDBView>
                         <img
                           className="d-block w-100"
-                          src="/image/frame.png"
+                          src={require("../image/frame.png")}
                           alt="First slide"
                           style={{
-                            backgroundImage:'url(/image/topper1.jpg)',
+                            backgroundImage:`url(${require("../image/topper1.jpg")})`,
                             backgroundRepeat:'no-repeat'
                           }}
 
@@ -125,10 +125,10 @@ const Topper = () => {
                       <MDBView>
                         <img
                           className="d-block w-100"
-                          src="/image/frame.png"
+                          src={require("../image/frame.png")}
                           alt="First slide"
                           style={{
-                            backgroundImage:'url(/image/topper1.jpg)',
+                            backgroundImage:`url(${require("../image/topper1.jpg")})`,
                             backgroundRepeat:'no-repeat'
                           }}
 
@@ -157,10 +157,10 @@ const Topper = () => {
                       <MDBView>
                         <img
                           className="d-block w-100"
-                          src="/image/frame.png"
+                          src={require("../image/frame.png")}
                           alt="First slide"
                           style={{
-                            backgroundImage:'url(/image/topper1.jpg)',
+                            backgroundImage:`url(${require("../image/topper1.jpg")})`,
                             backgroundRepeat:'no-repeat'
                           }}
 
@@ -171,10 +171,10 @@ const Topper = () => {
                       <MDBView>
                         <img
                           className="d-block w-100"
-                          src="/image/frame.png"
+                          src={require("../image/frame.png")}
                           alt="First slide"
                           style={{
-                            backgroundImage:'url(/image/topper1.jpg)',
+                            backgroundImage:`url(${require("../image/topper1.jpg")})`,
                             backgroundRepeat:'no-repeat'
                           }}
 
@@ -185,10 +185,10 @@ const Topper = () => {
                       <MDBView>
                         <img
                           className="d-block w-100"
-                          src="/image/frame.png"
+                          src={require("../image/frame.png")}
                           alt="First slide"
                           style={{
-                            backgroundImage:'url(/image/topper1.jpg)',
+                            backgroundImage:`url(${require("../image/topper1.jpg")})`,
                             backgroundRepeat:'no-repeat'
                           }}
 
@@ -217,10 +217,10 @@ const Topper = () => {
                       <MDBView>
                         <img
                           className="d-block w-100"
-                          src="/image/frame.png"
+                          src={require("../image/frame.png")}
                           alt="First slide"
                           style={{
-                            backgroundImage:'url(/image/topper1.jpg)',
+                            backgroundImage:`url(${require("../image/topper1.jpg")})`,
                             backgroundRepeat:'no-repeat'
                           }}
 
@@ -231,10 +231,10 @@ const Topper = () => {
                       <MDBView>
                         <img
                           className="d-block w-100"
-                          src="/image/frame.png"
+                          src={require("../image/frame.png")}
                           alt="First slide"
                           style={{
-                            backgroundImage:'url(/image/topper1.jpg)',
+                            backgroundImage:`url(${require("../image/topper1.jpg")})`,
                             backgroundRepeat:'no-repeat'
                           }}
 
@@ -245,10 +245,10 @@ const Topper = () => {
                       <MDBView>
                         <img
                           className="d-block w-100"
-                          src="/image/frame.png"
+                          src={require("../image/frame.png")}
                           alt="First slide"
                           style={{
-                            backgroundImage:'url(/image/topper1.jpg)',
+                            backgroundImage:`url(${require("../image/topper1.jpg")})`,
                             backgroundRepeat:'no-repeat'
                           }}
 

@@ -27,7 +27,7 @@ const Dropup = () => {
   return (
     <BrowserRouter>
     <div className='mx-auto justify-center flex'>
-                    <img src='../favicon.ico' className='hidden fixed md:block mt-2 z-30' alt='logo' />
+                    <img src={`${process.env.PUBLIC_URL}/favicon.ico`} className='hidden fixed md:block mt-2 z-30' alt='logo' />
                 </div>
     <div className='fixed w-full z-20'>
      

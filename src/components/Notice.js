@@ -1,4 +1,5 @@
 import React from 'react'
+import Pdf from '../image/pdf.png'
 
 function Notice() {
     const Stop = () =>{
@@ -15,7 +16,7 @@ function Notice() {
                    <marquee direction='up' height='450' id='marquee' onMouseEnter={Stop} onMouseLeave={Start} >
                     <li className='border-b border-black border-dotted p-2'>
                         <div className='flex '>
-                        <img src='/image/pdf.png' alt='pdf' className='w-8 h-8 rounded-sm' />
+                        <img src={Pdf} alt='pdf' className='w-8 h-8 rounded-sm' />
               <h1 className='text-lg font-serif'>SPECIAL STRATEGIES FOR GIRLS &amp; MOTIVATIONAL PLANS</h1>
               </div>
               <p className='text-xs ml-8'>For more information</p>
@@ -23,7 +24,7 @@ function Notice() {
               </li>
               <li className='border-b border-black border-dotted p-2'>
                  <div className='flex '>
-                     <img src='/image/pdf.png' alt='pdf' className='w-8 h-8 rounded-sm ' />
+                     <img src={Pdf} alt='pdf' className='w-8 h-8 rounded-sm ' />
               <h1 className='text-lg font-serif'>SPECIAL STRATEGIES FOR GIRLS &amp; MOTIVATIONAL PLANS</h1>
               </div>
               <p className='text-xs ml-8'>For more information</p>
@@ -31,7 +32,7 @@ function Notice() {
               </li>
               <li className='border-b border-black border-dotted p-2'>
                  <div className='flex '>
-                     <img src='/image/pdf.png' alt='pdf' className='w-8 h-8 rounded-sm ' />
+                     <img src={Pdf} alt='pdf' className='w-8 h-8 rounded-sm ' />
               <h1 className='text-lg font-serif'>SPECIAL STRATEGIES FOR GIRLS &amp; MOTIVATIONAL PLANS</h1>
               </div>
               <p className='text-xs ml-8'>For more information</p>
@@ -39,7 +40,7 @@ function Notice() {
               </li>
               <li className='border-b border-black border-dotted p-2'>
                  <div className='flex '>
-                     <img src='/image/pdf.png' alt='pdf' className='w-8 h-8 rounded-sm ' />
+                     <img src={Pdf} alt='pdf' className='w-8 h-8 rounded-sm ' />
               <h1 className='text-lg font-serif'>SPECIAL STRATEGIES FOR GIRLS &amp; MOTIVATIONAL PLANS</h1>
               </div>
               <p className='text-xs ml-8'>For more information</p>
@@ -47,7 +48,7 @@ function Notice() {
               </li>
               <li className='border-b border-black border-dotted p-2'>
                  <div className='flex '>
-                     <img src='/image/pdf.png' alt='pdf' className='w-8 h-8 rounded-sm ' />
+                     <img src={Pdf} alt='pdf' className='w-8 h-8 rounded-sm ' />
               <h1 className='text-lg font-serif'>SPECIAL STRATEGIES FOR GIRLS &amp; MOTIVATIONAL PLANS</h1>
               </div>
               <p className='text-xs ml-8'>For more information</p>

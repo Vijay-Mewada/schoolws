@@ -9,17 +9,17 @@ import {
 
 const items = [
   {
-    src: '/image/c1.jpg',
+    src: require('../image/c1.jpg'),
     altText: 'slide1',
     caption: 'School Name', 
   },              
   {
-    src: '/image/c1.jpg',
+    src: require('../image/c1.jpg'),
     altText: 'School Name',
     caption: 'Slide 2'
   },
   {
-    src: '/image/c1.jpg',
+    src: require('../image/c1.jpg'),
     altText: 'School Name',
     caption: 'Slide 3'
   }
