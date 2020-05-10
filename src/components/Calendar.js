@@ -13,10 +13,10 @@ class Cal extends Component {
     render() {
         return (
             <div>
-                <div className='p-4'>
+                <div className='pt-4'>
                     <h1 className=' uppercase text-xl font-semibold font-serif text-center'>School Calendar</h1>
                 </div>
-                <div className='flex mx-auto justify-center' style={{marginBottom:'10px'}}>
+                <div className='flex m-4 md:mt-0 justify-center' style={{marginBottom:'10px'}}>
                 <Calendar
                     onChange={this.onChange}
                     value={this.state.date} />

@@ -39,28 +39,28 @@ const Event = () => {
       minHeight:'375px',
       }}>
    
-  <div  style={{backgroundImage: "url(/image/topper1.jpg)", backgroundAttachment:'fixed', opacity:'.20', position:'relative', backgroundRepeat:'no-repeat', objectFit:'cover', width:'100%'}} className='flex flex-wrap h-auto  ' >
+  <div  style={{backgroundImage:`url(${require("../image/topper1.jpg")})`, backgroundAttachment:'fixed', opacity:'.20', position:'relative', backgroundRepeat:'no-repeat', objectFit:'cover', width:'100%'}} className='flex flex-wrap h-auto  ' >
   </div>
   <div className=" my-8 cta-text1">
   <span class="flex justify-center mx-auto"><hr class="flex ml-auto w-1/6 mt-12 text-black"/>
-    <img src='/image/head.png' alt='icon' height='80px' width='80px' className='flex justify-center ' />
+    <img src={require("../image/head.png")} alt='icon' height='80px' width='80px' className='flex justify-center ' />
     <hr class="w-1/6 flex mr-auto mt-12  text-black"/> </span>
           <h2 className='flex flex-wrap justify-center mx-auto font-serif text-center text-white uppercase text-2xl uppercase' >EVENTS</h2>
          </div>
     <AliceCarousel mouseTrackingEnabled  {...options} >
           <div>
           <h1 className='text-white text-center'>PRIMARY</h1>
-             <img src='/image/frame.png' alt='APSGallery1' className='w-64 h-64' style={{marginLeft:"50px", backgroundImage:"url(/image/topper1.jpg)", backgroundPositionX:'30px', backgroundPositionY:'35px', backgroundRepeat:'no-repeat'}}/>
+             <img src={require("../image/e2.webp")} alt='APSGallery1' className='w-64 h-64' style={{marginLeft:"50px"}}/>
           </div>
-              <img src='/image/c1.JPG' alt='APSGallery2' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
-            <img src='/image/c1.JPG' alt='APSGallery3' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
-               <img src='/image/c1.JPG' alt='APSGallery4' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
-               <img src='/image/c1.JPG' alt='APSGallery5' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
-               <img src='/image/c1.JPG' alt='APSGallery6' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
-               <img src='/image/c1.JPG' alt='APSGallery7' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
-               {/* <img src='/image/c1.JPG' alt='APSGallery8' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
-              //  <img src='/image/c1.JPG' alt='APSGallery9' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
-              // <img src='/image/c1.JPG' alt='APSGallery10' className='w-64 h-64 ' style={{marginLeft:"50px"}}/> */}
+              <img src={require("../image/e1.jpg")} alt='APSGallery2' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
+            <img src={require("../image/e3.jpg")} alt='APSGallery3' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
+               <img src={require("../image/e4.jpg")} alt='APSGallery4' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
+               <img src={require("../image/e5.jpg")} alt='APSGallery5' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
+               <img src={require("../image/e6.jpg")} alt='APSGallery6' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
+               <img src={require("../image/e7.jpg")} alt='APSGallery7' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
+               {/* <img src={require("../image/c1.jpg")} alt='APSGallery8' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
+              //  <img src={require("../image/c1.jpg")} alt='APSGallery9' className='w-64 h-64 ' style={{marginLeft:"50px"}}/>
+              // <img src={require("../image/c1.jpg")} alt='APSGallery10' className='w-64 h-64 ' style={{marginLeft:"50px"}}/> */}
              
     </AliceCarousel>
     </div>

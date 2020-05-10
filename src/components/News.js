@@ -10,7 +10,7 @@ function News() {
     return (
         <div className='p-4'>
             <h1 className='text-xl uppercase font-semibold font-serif text-center'>Latest News</h1>
-            <ul className='border-solid border m-4 bg-white p-2 rounded-md' style={{height:'460px'}}>
+            <ul className='border-solid border md:m-4 mt-4 bg-white p-2 rounded-md' style={{height:'460px'}}>
             <marquee direction='up' height='450' id='marquee1' onMouseEnter={Stop} onMouseLeave={Start} >
                 <li>
                     <div className='flex'>

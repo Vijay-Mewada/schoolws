@@ -14,15 +14,21 @@ const items = [
     caption: 'School Name', 
   },              
   {
-    src: require('../image/c1.jpg'),
+    src: require('../image/c3.JPG'),
     altText: 'School Name',
     caption: 'Slide 2'
   },
   {
-    src: require('../image/c1.jpg'),
+    src: require('../image/c4.JPG'),
+    altText: 'School Name',
+    caption: 'Slide 3'
+  },
+  {
+    src: require('../image/c2.jpg'),
     altText: 'School Name',
     caption: 'Slide 3'
   }
+  
 ];
 
 const Slider = (props) => {

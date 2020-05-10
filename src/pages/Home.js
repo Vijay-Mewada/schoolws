@@ -1,9 +1,16 @@
 import React from 'react'
+import Carousel from '../components/Carousel'
+import Information from '../components/Information';
+import Event from '../components/Event';
+import Topper from '../components/Topper';
 
 function Home() {
     return (
-        <div className='relative'>
-            <h1 className='p-64 bg-red-500'>Home</h1>
+        <div>
+            <Carousel />
+            <Information />
+            <Topper />
+            <Event />
         </div>
     )
 }

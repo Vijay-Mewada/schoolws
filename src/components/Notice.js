@@ -12,7 +12,7 @@ function Notice() {
         <div>
             <div className='p-4'>
                 <h1 className='text-xl font-semibold font-serif uppercase text-center'>Notice</h1>
-                <ul className='border-black border-solid border m-4 bg-white p-2 rounded-md' style={{height:'460px'}}>
+                <ul className='border-black border-solid border mt-4 md:m-4 bg-white p-2 rounded-md' style={{height:'460px'}}>
                    <marquee direction='up' height='450' id='marquee' onMouseEnter={Stop} onMouseLeave={Start} >
                     <li className='border-b border-black border-dotted p-2'>
                         <div className='flex '>
