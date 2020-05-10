@@ -16,9 +16,9 @@ const Topper = () => {
                   <div  style={{backgroundImage:'url(/image/awardbg.JPEG)', backgroundAttachment:'fixed', opacity:'.20', position:'relative', backgroundRepeat:'no-repeat', objectFit:'cover', width:'100%'}} className='flex flex-wrap h-auto  ' >
   </div>
   <div className=" my-8 cta-text1">
-  <span class="flex justify-center mx-auto"><hr class="flex ml-auto w-1/6 mt-12 text-black"/>
+  <hr class="flex ml-auto w-1/6 mt-12 text-black"/>
     <img src={require('../image/head.png')} alt='icon' height='80px' width='80px' className='mx-auto justify-center ' />
-    <hr class="w-1/6 flex mr-auto mt-12  text-black"/> </span>
+    <hr class="w-1/6 flex mr-auto mt-12  text-black"/> 
           <h2 className='flex flex-wrap justify-center mx-auto font-serif text-center text-white uppercase text-2xl' >Our Topper</h2>
          </div>
                <div className='flex flex-wrap'>
