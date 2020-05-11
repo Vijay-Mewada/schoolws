@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "486ddfd22f688a9c49d03b04dc09febb",
+    "revision": "0a40b829812a1bd117bf751c7ab63fa4",
     "url": "/schoolws/index.html"
   },
   {
-    "revision": "0ff4c6f4efa9246b9590",
+    "revision": "765c681c8ef23139745a",
     "url": "/schoolws/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "cecf32d983ed0315a890",
+    "revision": "501764005a56244d3ba0",
     "url": "/schoolws/static/css/main.971b647d.chunk.css"
   },
   {
-    "revision": "0ff4c6f4efa9246b9590",
-    "url": "/schoolws/static/js/2.8abce95b.chunk.js"
+    "revision": "765c681c8ef23139745a",
+    "url": "/schoolws/static/js/2.09386262.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/schoolws/static/js/2.8abce95b.chunk.js.LICENSE.txt"
+    "url": "/schoolws/static/js/2.09386262.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cecf32d983ed0315a890",
-    "url": "/schoolws/static/js/main.c5cad4a9.chunk.js"
+    "revision": "501764005a56244d3ba0",
+    "url": "/schoolws/static/js/main.272fda50.chunk.js"
   },
   {
     "revision": "539613a32941b0516de4",
@@ -86,6 +86,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "55d60d700758af5fb14d79228babc51f",
     "url": "/schoolws/static/media/management.55d60d70.jpg"
+  },
+  {
+    "revision": "79f24a90d0cb1e0fa263894eccebf340",
+    "url": "/schoolws/static/media/navtoggle.79f24a90.svg"
   },
   {
     "revision": "a42929cc64e7dbb7e90b6ecc0e128bde",

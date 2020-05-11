@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/schoolws/static/css/main.971b647d.chunk.css",
-    "main.js": "/schoolws/static/js/main.c5cad4a9.chunk.js",
-    "main.js.map": "/schoolws/static/js/main.c5cad4a9.chunk.js.map",
+    "main.js": "/schoolws/static/js/main.272fda50.chunk.js",
+    "main.js.map": "/schoolws/static/js/main.272fda50.chunk.js.map",
     "runtime-main.js": "/schoolws/static/js/runtime-main.4851aee4.js",
     "runtime-main.js.map": "/schoolws/static/js/runtime-main.4851aee4.js.map",
     "static/css/2.de424728.chunk.css": "/schoolws/static/css/2.de424728.chunk.css",
-    "static/js/2.8abce95b.chunk.js": "/schoolws/static/js/2.8abce95b.chunk.js",
-    "static/js/2.8abce95b.chunk.js.map": "/schoolws/static/js/2.8abce95b.chunk.js.map",
+    "static/js/2.09386262.chunk.js": "/schoolws/static/js/2.09386262.chunk.js",
+    "static/js/2.09386262.chunk.js.map": "/schoolws/static/js/2.09386262.chunk.js.map",
     "index.html": "/schoolws/index.html",
-    "precache-manifest.4f2183c2af7b03e614860ecd20249939.js": "/schoolws/precache-manifest.4f2183c2af7b03e614860ecd20249939.js",
+    "precache-manifest.0fabd250e1953893b024b98bcce196fc.js": "/schoolws/precache-manifest.0fabd250e1953893b024b98bcce196fc.js",
     "service-worker.js": "/schoolws/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/schoolws/static/css/2.de424728.chunk.css.map",
     "static/css/main.971b647d.chunk.css.map": "/schoolws/static/css/main.971b647d.chunk.css.map",
-    "static/js/2.8abce95b.chunk.js.LICENSE.txt": "/schoolws/static/js/2.8abce95b.chunk.js.LICENSE.txt",
+    "static/js/2.09386262.chunk.js.LICENSE.txt": "/schoolws/static/js/2.09386262.chunk.js.LICENSE.txt",
     "static/media/c1.jpg": "/schoolws/static/media/c1.2e4f9a71.jpg",
     "static/media/c2.jpg": "/schoolws/static/media/c2.85eebf3d.jpg",
     "static/media/c3.JPG": "/schoolws/static/media/c3.8db35bcd.JPG",
@@ -29,14 +29,15 @@
     "static/media/head.png": "/schoolws/static/media/head.41361625.png",
     "static/media/lower.png": "/schoolws/static/media/lower.f7cc219f.png",
     "static/media/management.jpg": "/schoolws/static/media/management.55d60d70.jpg",
+    "static/media/navtoggle.svg": "/schoolws/static/media/navtoggle.79f24a90.svg",
     "static/media/pdf.png": "/schoolws/static/media/pdf.a42929cc.png",
     "static/media/uppertop.png": "/schoolws/static/media/uppertop.bf6cc1e1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4851aee4.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.8abce95b.chunk.js",
+    "static/js/2.09386262.chunk.js",
     "static/css/main.971b647d.chunk.css",
-    "static/js/main.c5cad4a9.chunk.js"
+    "static/js/main.272fda50.chunk.js"
   ]
 }
