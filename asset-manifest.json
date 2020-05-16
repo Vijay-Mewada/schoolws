@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/schoolws/static/css/main.7cff8f7c.chunk.css",
-    "main.js": "/schoolws/static/js/main.b70e0622.chunk.js",
-    "main.js.map": "/schoolws/static/js/main.b70e0622.chunk.js.map",
+    "main.css": "/schoolws/static/css/main.b3dde9d7.chunk.css",
+    "main.js": "/schoolws/static/js/main.1644b77e.chunk.js",
+    "main.js.map": "/schoolws/static/js/main.1644b77e.chunk.js.map",
     "runtime-main.js": "/schoolws/static/js/runtime-main.4851aee4.js",
     "runtime-main.js.map": "/schoolws/static/js/runtime-main.4851aee4.js.map",
     "static/css/2.b45235ee.chunk.css": "/schoolws/static/css/2.b45235ee.chunk.css",
-    "static/js/2.82a77b60.chunk.js": "/schoolws/static/js/2.82a77b60.chunk.js",
-    "static/js/2.82a77b60.chunk.js.map": "/schoolws/static/js/2.82a77b60.chunk.js.map",
+    "static/js/2.ff062856.chunk.js": "/schoolws/static/js/2.ff062856.chunk.js",
+    "static/js/2.ff062856.chunk.js.map": "/schoolws/static/js/2.ff062856.chunk.js.map",
     "index.html": "/schoolws/index.html",
-    "precache-manifest.13fdd982b3816ad8bf95b31058c6aa9a.js": "/schoolws/precache-manifest.13fdd982b3816ad8bf95b31058c6aa9a.js",
+    "precache-manifest.311a5aa7b381b068de5a7b5a22aaa29f.js": "/schoolws/precache-manifest.311a5aa7b381b068de5a7b5a22aaa29f.js",
     "service-worker.js": "/schoolws/service-worker.js",
     "static/css/2.b45235ee.chunk.css.map": "/schoolws/static/css/2.b45235ee.chunk.css.map",
-    "static/css/main.7cff8f7c.chunk.css.map": "/schoolws/static/css/main.7cff8f7c.chunk.css.map",
-    "static/js/2.82a77b60.chunk.js.LICENSE.txt": "/schoolws/static/js/2.82a77b60.chunk.js.LICENSE.txt",
+    "static/css/main.b3dde9d7.chunk.css.map": "/schoolws/static/css/main.b3dde9d7.chunk.css.map",
+    "static/js/2.ff062856.chunk.js.LICENSE.txt": "/schoolws/static/js/2.ff062856.chunk.js.LICENSE.txt",
+    "static/media/accountant.jpg": "/schoolws/static/media/accountant.a0c748d3.jpg",
+    "static/media/admission1.jpg": "/schoolws/static/media/admission1.73915fbf.jpg",
+    "static/media/admissionbg.jpg": "/schoolws/static/media/admissionbg.7868817a.jpg",
     "static/media/c1.jpg": "/schoolws/static/media/c1.2e4f9a71.jpg",
     "static/media/c2.jpg": "/schoolws/static/media/c2.85eebf3d.jpg",
     "static/media/c3.JPG": "/schoolws/static/media/c3.8db35bcd.JPG",
@@ -30,14 +33,17 @@
     "static/media/lower.png": "/schoolws/static/media/lower.f7cc219f.png",
     "static/media/management.jpg": "/schoolws/static/media/management.55d60d70.jpg",
     "static/media/navtoggle.svg": "/schoolws/static/media/navtoggle.79f24a90.svg",
+    "static/media/officestuff.jpg": "/schoolws/static/media/officestuff.17bead9f.jpg",
+    "static/media/ot.jpeg": "/schoolws/static/media/ot.9a47ede6.jpeg",
     "static/media/pdf.png": "/schoolws/static/media/pdf.a42929cc.png",
+    "static/media/technical.jpg": "/schoolws/static/media/technical.600e8b15.jpg",
     "static/media/uppertop.png": "/schoolws/static/media/uppertop.bf6cc1e1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4851aee4.js",
     "static/css/2.b45235ee.chunk.css",
-    "static/js/2.82a77b60.chunk.js",
-    "static/css/main.7cff8f7c.chunk.css",
-    "static/js/main.b70e0622.chunk.js"
+    "static/js/2.ff062856.chunk.js",
+    "static/css/main.b3dde9d7.chunk.css",
+    "static/js/main.1644b77e.chunk.js"
   ]
 }

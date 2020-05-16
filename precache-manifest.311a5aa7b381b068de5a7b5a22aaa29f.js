@@ -1,31 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a4019d2c29a4ea0fc7aad32a2ed79624",
+    "revision": "1bc50d6c87ea50615c22e734f997729c",
     "url": "/schoolws/index.html"
   },
   {
-    "revision": "3286c7a1fa3fb7b461f4",
+    "revision": "fb5a1cb184fa04d62dc3",
     "url": "/schoolws/static/css/2.b45235ee.chunk.css"
   },
   {
-    "revision": "066c0ef74f02901c7b5a",
-    "url": "/schoolws/static/css/main.7cff8f7c.chunk.css"
+    "revision": "1615737fc81f8c045dd3",
+    "url": "/schoolws/static/css/main.b3dde9d7.chunk.css"
   },
   {
-    "revision": "3286c7a1fa3fb7b461f4",
-    "url": "/schoolws/static/js/2.82a77b60.chunk.js"
+    "revision": "fb5a1cb184fa04d62dc3",
+    "url": "/schoolws/static/js/2.ff062856.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/schoolws/static/js/2.82a77b60.chunk.js.LICENSE.txt"
+    "url": "/schoolws/static/js/2.ff062856.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "066c0ef74f02901c7b5a",
-    "url": "/schoolws/static/js/main.b70e0622.chunk.js"
+    "revision": "1615737fc81f8c045dd3",
+    "url": "/schoolws/static/js/main.1644b77e.chunk.js"
   },
   {
     "revision": "539613a32941b0516de4",
     "url": "/schoolws/static/js/runtime-main.4851aee4.js"
+  },
+  {
+    "revision": "a0c748d327491ca2305d1cb5040aeee1",
+    "url": "/schoolws/static/media/accountant.a0c748d3.jpg"
+  },
+  {
+    "revision": "73915fbf67faa841aa8991fd772b7a40",
+    "url": "/schoolws/static/media/admission1.73915fbf.jpg"
+  },
+  {
+    "revision": "7868817ac8d97abcb413503be97e2df7",
+    "url": "/schoolws/static/media/admissionbg.7868817a.jpg"
   },
   {
     "revision": "2e4f9a711d7f79be125e21701d321875",
@@ -92,8 +104,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/schoolws/static/media/navtoggle.79f24a90.svg"
   },
   {
+    "revision": "17bead9fe6cbb0ad686b712d66fc6b15",
+    "url": "/schoolws/static/media/officestuff.17bead9f.jpg"
+  },
+  {
+    "revision": "9a47ede68c782b23f6e1e1fd3ad99b12",
+    "url": "/schoolws/static/media/ot.9a47ede6.jpeg"
+  },
+  {
     "revision": "a42929cc64e7dbb7e90b6ecc0e128bde",
     "url": "/schoolws/static/media/pdf.a42929cc.png"
+  },
+  {
+    "revision": "600e8b15566f900680ad4169164e0f65",
+    "url": "/schoolws/static/media/technical.600e8b15.jpg"
   },
   {
     "revision": "bf6cc1e1abcaf447801cd5c58e4ed5e3",
