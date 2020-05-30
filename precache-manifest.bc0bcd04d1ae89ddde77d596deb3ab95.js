@@ -1,31 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cd04c3cc4ec627780dcfc1ec44467b7",
+    "revision": "378c7598e085723f8205d47dbda0c5fa",
     "url": "/schoolws/index.html"
   },
   {
-    "revision": "2acfd8fbeedb249cc499",
+    "revision": "ea3dfda8c430fd9a8f28",
     "url": "/schoolws/static/css/2.b45235ee.chunk.css"
   },
   {
-    "revision": "e6a4afed68b81350f259",
-    "url": "/schoolws/static/css/main.b3dde9d7.chunk.css"
+    "revision": "8f2427a39e26a93f5765",
+    "url": "/schoolws/static/css/main.d03ad15a.chunk.css"
   },
   {
-    "revision": "2acfd8fbeedb249cc499",
-    "url": "/schoolws/static/js/2.09157e8e.chunk.js"
+    "revision": "ea3dfda8c430fd9a8f28",
+    "url": "/schoolws/static/js/2.ee8fa7cc.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/schoolws/static/js/2.09157e8e.chunk.js.LICENSE.txt"
+    "url": "/schoolws/static/js/2.ee8fa7cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e6a4afed68b81350f259",
-    "url": "/schoolws/static/js/main.c29b389b.chunk.js"
+    "revision": "8f2427a39e26a93f5765",
+    "url": "/schoolws/static/js/main.5141aeb0.chunk.js"
   },
   {
     "revision": "539613a32941b0516de4",
     "url": "/schoolws/static/js/runtime-main.4851aee4.js"
+  },
+  {
+    "revision": "1de3685633b376bc53ee4ba39c696882",
+    "url": "/schoolws/static/media/Flaticon.1de36856.svg"
+  },
+  {
+    "revision": "442cbf12773ee5f205ffd1c02c8cf415",
+    "url": "/schoolws/static/media/Flaticon.442cbf12.woff2"
+  },
+  {
+    "revision": "8c0883d1c1964b6025d6247df03efac3",
+    "url": "/schoolws/static/media/Flaticon.8c0883d1.woff"
+  },
+  {
+    "revision": "bdee94d49485efcf0e86e33eaf1db9a5",
+    "url": "/schoolws/static/media/Flaticon.bdee94d4.ttf"
+  },
+  {
+    "revision": "ccc51ecf4fe88e11222393e47ac0a1ad",
+    "url": "/schoolws/static/media/Flaticon.ccc51ecf.eot"
   },
   {
     "revision": "ffd4173c82b31b140f2428f7a5dc5c28",

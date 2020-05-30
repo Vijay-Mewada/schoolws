@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/schoolws/static/css/main.b3dde9d7.chunk.css",
-    "main.js": "/schoolws/static/js/main.c29b389b.chunk.js",
-    "main.js.map": "/schoolws/static/js/main.c29b389b.chunk.js.map",
+    "main.css": "/schoolws/static/css/main.d03ad15a.chunk.css",
+    "main.js": "/schoolws/static/js/main.5141aeb0.chunk.js",
+    "main.js.map": "/schoolws/static/js/main.5141aeb0.chunk.js.map",
     "runtime-main.js": "/schoolws/static/js/runtime-main.4851aee4.js",
     "runtime-main.js.map": "/schoolws/static/js/runtime-main.4851aee4.js.map",
     "static/css/2.b45235ee.chunk.css": "/schoolws/static/css/2.b45235ee.chunk.css",
-    "static/js/2.09157e8e.chunk.js": "/schoolws/static/js/2.09157e8e.chunk.js",
-    "static/js/2.09157e8e.chunk.js.map": "/schoolws/static/js/2.09157e8e.chunk.js.map",
+    "static/js/2.ee8fa7cc.chunk.js": "/schoolws/static/js/2.ee8fa7cc.chunk.js",
+    "static/js/2.ee8fa7cc.chunk.js.map": "/schoolws/static/js/2.ee8fa7cc.chunk.js.map",
     "index.html": "/schoolws/index.html",
-    "precache-manifest.679e09efa20eb56a619def451c0cbcb8.js": "/schoolws/precache-manifest.679e09efa20eb56a619def451c0cbcb8.js",
+    "precache-manifest.bc0bcd04d1ae89ddde77d596deb3ab95.js": "/schoolws/precache-manifest.bc0bcd04d1ae89ddde77d596deb3ab95.js",
     "service-worker.js": "/schoolws/service-worker.js",
     "static/css/2.b45235ee.chunk.css.map": "/schoolws/static/css/2.b45235ee.chunk.css.map",
-    "static/css/main.b3dde9d7.chunk.css.map": "/schoolws/static/css/main.b3dde9d7.chunk.css.map",
-    "static/js/2.09157e8e.chunk.js.LICENSE.txt": "/schoolws/static/js/2.09157e8e.chunk.js.LICENSE.txt",
+    "static/css/main.d03ad15a.chunk.css.map": "/schoolws/static/css/main.d03ad15a.chunk.css.map",
+    "static/js/2.ee8fa7cc.chunk.js.LICENSE.txt": "/schoolws/static/js/2.ee8fa7cc.chunk.js.LICENSE.txt",
+    "static/media/flaticon.css": "/schoolws/static/media/Flaticon.ccc51ecf.eot",
     "static/media/Star.png": "/schoolws/static/media/Star.ffd4173c.png",
     "static/media/accountant.jpg": "/schoolws/static/media/accountant.a0c748d3.jpg",
     "static/media/admission1.jpg": "/schoolws/static/media/admission1.73915fbf.jpg",
@@ -44,8 +45,8 @@
   "entrypoints": [
     "static/js/runtime-main.4851aee4.js",
     "static/css/2.b45235ee.chunk.css",
-    "static/js/2.09157e8e.chunk.js",
-    "static/css/main.b3dde9d7.chunk.css",
-    "static/js/main.c29b389b.chunk.js"
+    "static/js/2.ee8fa7cc.chunk.js",
+    "static/css/main.d03ad15a.chunk.css",
+    "static/js/main.5141aeb0.chunk.js"
   ]
 }
